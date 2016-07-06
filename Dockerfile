@@ -17,5 +17,3 @@ RUN         echo "sbt.version=${SBT}" > ./cache/project/build.properties
 RUN         echo "scalaVersion := \"${SCALA}\"" > ./cache/build.sbt
 RUN         cd ./cache/ && sbt test
 RUN         rm -r ./cache/
-
-WORKDIR     /src/
