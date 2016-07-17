@@ -1,4 +1,4 @@
-FROM        taig/java:1.0.1
+FROM        taig/java:1.0.2
 
 MAINTAINER  Niklas Klein "mail@taig.io"
 
