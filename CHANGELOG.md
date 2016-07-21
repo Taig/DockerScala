@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.4
+
+_2016-07-21_
+
+ * Upgrade to Upgrade to taig/java:1.0.3
+
 ## 1.0.3
 
 _2016-07-20_
