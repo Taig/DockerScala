@@ -2,7 +2,7 @@ FROM        taig/java:1.0.6
 
 MAINTAINER  Niklas Klein "mail@taig.io"
 
-ENV         SBT 0.13.12
+ENV         SBT 0.13.13
 ENV         SCALA 2.11.8
 
 WORKDIR     /root/
